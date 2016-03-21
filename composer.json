@@ -1,5 +1,5 @@
 {
-    "name": "phpcasperjs/phpcasperjs",
+    "name": "mikolazp/phpcasperjs",
     "description": "Simple PHP wrapper for CasperJS",
     "homepage": "https://github.com/alwex/php-casperjs",
     "keywords": ["phpunit", "test", "browser"],
