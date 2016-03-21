@@ -405,7 +405,7 @@ FRAGMENT;
     {
 
         $fragment = <<<FRAGMENT
-casper.on('load.finished', function() {
+casper.then(function() {
     this.capture('$filename', {
         top: 0,
         left: 0,
